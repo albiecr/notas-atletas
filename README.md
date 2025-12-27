@@ -42,3 +42,23 @@ let atletas = [
    notas:  [8, 10, 10, 7, 9.33]
  }
 ];
+```
+
+## 🏃‍♂️ Como Executar
+
+Você pode rodar este projeto de duas formas:
+
+### 1. Pelo Terminal (Node.js)
+Certifique-se de ter o Node.js instalado e execute:
+
+```bash
+node notas-atletas.js
+```
+
+### 2. Pelo Navegador
+1. Copie o código do arquivo `notas-atletas.js`.
+2. Abra o console do seu navegador (F12).
+3. Cole o código e aperte **Enter**.
+
+---
+Desenvolvido por **[Albertina Rodrigues]** 🚀
